@@ -7,29 +7,30 @@ My name is Miriam, I am Italian and currently I am involved in a reskilling prog
 
 
 
-## 5 cities I visited 
+## The 5 cities I visited (plus one)
 
-1. Venice
-1. Marrakesh
-1. Ubud
-1. Bishkek 
-1. Tokio
+- [x] Venice
+- [x] Marrakesh
+- [x] Ubud
+- [x] Bishkek 
+- [x] Tokio
+- [ ] Ulaanbaatar
 
 
 
 ## My Hobbies:
 
-- traveling
-- theater
-- cinema 
-- food
-- art
-- reading
-- hiking
+- Traveling
+- Theater
+- Cinema 
+- Food
+- Art
+- Reading
+- Hiking
 
 
 
-## My Movies´ TOP 7:
+## My Movies´ TOP 9:
 
 1. [THE GREAT BEAUTY](https://www.rottentomatoes.com/m/the_great_beauty)
 1. [ONCE UPON A TIME... IN HOLLYWOOD](https://www.rottentomatoes.com/m/once_upon_a_time_in_hollywood)
@@ -38,6 +39,9 @@ My name is Miriam, I am Italian and currently I am involved in a reskilling prog
 1. [JOJO RABBIT](https://www.rottentomatoes.com/m/jojo_rabbit)
 1. [AKIRA](https://www.rottentomatoes.com/m/akira)
 1. [MODERN TIMES](https://www.rottentomatoes.com/m/modern_times)
+1. [PARASITE](https://www.rottentomatoes.com/m/parasite_2019)
+1. [BATTLESHIP POTEMKIN](https://www.rottentomatoes.com/m/battleship_potemkin)
+
 
 
 
